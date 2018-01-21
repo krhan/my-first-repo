@@ -1,0 +1,17 @@
+commit d43b4f9cfdab129e36cc1093f586058f46f39cea
+Author: krhan <krista.hannonen@gmail.com>
+Date:   Sun Jan 21 16:02:12 2018 +0200
+
+    added gitignore
+
+commit 6ce08734d0edfd197b16aba7ffb21eec6c3a236f
+Author: krhan <krista.hannonen@gmail.com>
+Date:   Sun Jan 21 15:49:17 2018 +0200
+
+    added two files
+
+commit 764a3e950a38b914c2be9927e92fdd55181543a9
+Author: krhan <krista.hannonen@gmail.com>
+Date:   Sun Jan 21 15:42:44 2018 +0200
+
+    added readme.txt
